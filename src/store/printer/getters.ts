@@ -725,6 +725,7 @@ export const getters: GetterTree<PrinterState, RootState> = {
       'aht10',
       'bme280',
       'htu21d',
+      'sht3x',
       'nevermoresensor'
     ]
 
